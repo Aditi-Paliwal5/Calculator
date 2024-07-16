@@ -1,0 +1,29 @@
+
+.class-button{
+
+  background: #000;
+  color : white;
+
+
+}
+#id-button{
+
+  background:red;
+  color : rgb(2, 2, 98);
+}
+.A{
+  background:lightgreen;
+  color:#000;
+  border:none;
+  padding: 5px 15px ;
+  border-radius:10px;
+  height: 30px;
+  width: 100px;
+}
+.B{
+  background:white;
+  color: Black;
+  padding : 5px 5px;
+  border: 2px solid black;
+  border-radius: 10px;
+}

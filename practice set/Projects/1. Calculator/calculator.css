@@ -1,0 +1,33 @@
+#calculator{
+
+  border: 2px solid black;
+  border-radius: 5px;
+  width : 200px; 
+  padding: 10px;
+}
+#display{
+  margin : 10px;
+  width : 85%;
+  font-size: 20px;
+  border: 2px solid black;
+}
+.button{
+  height : 45px;
+  width :45px;
+  margin : 3px;
+  cursor: pointer;
+  
+}
+.button:hover {
+  background-color: #4da5d1;
+}
+.button:active {
+  background-color: #2a6482; 
+  transform: scale(0.98); 
+}
+.button-container{
+
+  display : flex;
+  justify-content:center;
+  flex-wrap:wrap;
+}
